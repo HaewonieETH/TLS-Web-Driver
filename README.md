@@ -1,3 +1,5 @@
+![Logo](http://francky.me/images/quora001.png)
+
 ## Getting Started ##
 This driver currently can be downloaded as an executable. Start the web driver service with:
 
